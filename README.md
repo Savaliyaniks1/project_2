@@ -9,5 +9,8 @@ Data Cleaning
 Handling Missing Values
 Dealing with Duplicates
 Data Transformation
-Data Visualization
-Save Data
+combine dataset_1 and dataset_2
+check correlation of column.
+concatenate dataset_3 with combine data
+check skewwness of the data as well as find outlier and remove from dataset
+Save Data in excel form
